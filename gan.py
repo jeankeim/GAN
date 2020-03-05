@@ -9,7 +9,6 @@ from keras.optimizers import Adam
 import matplotlib.pyplot as plt
 import numpy as np
 
-
 class GAN():
     def __init__(self):
         self.img_rows = 28
