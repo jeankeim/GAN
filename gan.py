@@ -7,8 +7,6 @@ from keras.layers.convolutional import UpSampling2D, Conv2D
 from keras.models import Sequential, Model
 from keras.optimizers import Adam
 import matplotlib.pyplot as plt
-import sys
-
 import numpy as np
 class GAN():
     def __init__(self):
